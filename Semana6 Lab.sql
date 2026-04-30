@@ -25,7 +25,7 @@ BEGIN
 END;
 GO
 
-USE Semana5;
+USE master;
 GO
 
 
